@@ -8,5 +8,3 @@
 <li>deletetodo</li>
 <li>displaytodo</li>
 </ul>
-
-<h2>NB : all these functions are related to the fs module </h2>
